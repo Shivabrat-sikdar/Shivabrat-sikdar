@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivabrat Sikdar</h1>
 <h3 align="center">A passionate Test Automation Engineer from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502970/tester.gif">
+<img align="right" alt="coding" width="170" src="https://cdn.dribbble.com/users/926537/screenshots/4502970/tester.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivabrat-sikdar&label=Profile%20views&color=0e75b6&style=flat" alt="shivabrat-sikdar" /> </p>
 
