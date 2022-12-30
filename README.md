@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **There are so many let's discuss over the code with coffee.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivabrat-sikdar" alt="shivabrat-sikdar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivabrat-sikdar&show_icons=true&locale=en" alt="shivabrat-sikdar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivabrat-sikdar&" alt="shivabrat-sikdar" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivabrat-sikdar" alt="shivabrat-sikdar" /></a> </p>
