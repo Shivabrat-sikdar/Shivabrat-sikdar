@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivabrat-sikdar&label=Profile%20views&color=0e75b6&style=flat" alt="shivabrat-sikdar" /> </p>
 
-- 🔭 I’m currently working as **Test automation engineer**
+- 🔭 I’m currently working as a **Test automation engineer**
 
 - 🌱 I’m currently learning **Python with selenium**
 
