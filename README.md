@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivabrat-sikdar&label=Profile%20views&color=0e75b6&style=flat" alt="shivabrat-sikdar" /> </p>
 
-- 🔭 I’m currently working on **OTT Application Testing**
+- 🔭 I’m currently working as **Test automation engineer**
 
-- 🌱 I’m currently learning **UiPath, Python with selenium**
+- 🌱 I’m currently learning **Python with selenium**
 
 - 💬 Ask me about **Robot framework, Java with uiautomator,Appium, Travels :) **
 
