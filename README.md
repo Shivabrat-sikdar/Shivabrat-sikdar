@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python with selenium**
 
-- 💬 Ask me about **Robot framework, Java with uiautomator,Appium, Travels :) **
+- 💬 Ask me about **Robot framework, Selenium, Appium, Travels :) **
 
 - ⚡ Fun fact **There are so many let's discuss over the code with coffee.**
 
