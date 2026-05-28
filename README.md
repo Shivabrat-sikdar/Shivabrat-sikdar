@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shivabrat Sikdar</h1>
-<h3 align="center">A passionate Test Automation Engineer from India</h3>
+<h3 align="center">A passionate QA from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502970/tester.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivabrat-sikdar&label=Profile%20views&color=0e75b6&style=flat" alt="shivabrat-sikdar" /> </p>
 
-- 🔭 I’m currently working as a **Test automation engineer**
+- 🔭 I’m currently working as a **QA engineer**
 
-- 🌱 I’m currently learning **Python with selenium**
+- 🌱 I’m currently Exploring **New Ideas**
 
-- 💬 Ask me about **Robot framework, Selenium, Appium, Travels :) **
 
 - ⚡ Fun fact **There are so many let's discuss over the code with coffee.**
 
